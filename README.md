@@ -56,15 +56,6 @@ Here are some of the latest repositories I've been working on:
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bint-e-waseem&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bint-e-waseem&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm currently in "Build Mode" and always open to collaborating on interesting projects or connecting with like-minded individuals.
