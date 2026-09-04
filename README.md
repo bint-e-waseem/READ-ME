@@ -36,12 +36,6 @@ I believe in the power of **continuous learning** and strive to upskill every da
 
 ## 🏆 Certifications & Achievements
 
-### **Microsoft Certifications**
-- **Microsoft Certified: [Add Your Specific Certification Title Here, e.g., Azure AI Fundamentals]**
-- **Microsoft Badge: [Add Badge Name, e.g., AI-900]**
-
-> *Note: Please replace the placeholders above with your actual Microsoft certification and badge details.*
-
 ### **Kaggle**
 - **Kaggle Profile:** [yashfawaseem](https://www.kaggle.com/yashfawaseem)
 - **Active Participant** - Committed to continuous learning through Kaggle competitions and datasets.
